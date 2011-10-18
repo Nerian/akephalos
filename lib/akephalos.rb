@@ -3,6 +3,9 @@
 #
 # The only requirement is that a Java runtime is available.
 #
+
+puts "YOU ARE USING A DEPRECATED VERSION. USE: https://github.com/Nerian/akephalos2"
+
 require 'java' if RUBY_PLATFORM == 'java'
 require 'pathname'
 
